@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/daruso/Downloads/pr0_conan/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/daruso/Downloads/pr0_conan/. -g -arch arm64 -fcolor-diagnostics -o CMakeFiles/igvInterfaz.cpp.dir/pr1.cpp.o -c /Users/daruso/Downloads/pr0_conan/pr1.cpp",
+  "file": "/Users/daruso/Downloads/pr0_conan/pr1.cpp",
+  "output": "/Users/daruso/Downloads/pr0_conan/cmake-build-debug/CMakeFiles/igvInterfaz.cpp.dir/pr1.cpp.o"
+},
+{
+  "directory": "/Users/daruso/Downloads/pr0_conan/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/daruso/Downloads/pr0_conan/. -g -arch arm64 -fcolor-diagnostics -o CMakeFiles/igvInterfaz.cpp.dir/igvInterfaz.cpp.o -c /Users/daruso/Downloads/pr0_conan/igvInterfaz.cpp",
+  "file": "/Users/daruso/Downloads/pr0_conan/igvInterfaz.cpp",
+  "output": "/Users/daruso/Downloads/pr0_conan/cmake-build-debug/CMakeFiles/igvInterfaz.cpp.dir/igvInterfaz.cpp.o"
+}
+]
